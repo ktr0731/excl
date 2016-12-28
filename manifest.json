@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "excl",
+  "description": "A Chrome extension for closing all tabs of duplicate URL Edit",
+  "version": "0.1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": [
+    "tabs"
+  ]
+}
