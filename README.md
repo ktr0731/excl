@@ -1,4 +1,5 @@
 ![](./images/logo.png)  
+  
 A Chrome extension for closing all tabs of duplicate URL
 
 ===
