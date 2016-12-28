@@ -37,3 +37,6 @@ jspm_packages
 
 # Typings
 typings
+
+excl.pem
+excl.crx
