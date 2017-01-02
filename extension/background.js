@@ -1,10 +1,8 @@
 (() => {
   chrome.browserAction.onClicked.addListener(() => {
-    chrome.tabs.query({currentWindow: true, active: true}, currentTab => {
-      currentTab = currentTab[0]
-
-      chrome.tabs.query({currentWindow: true}, result => {
-        result.map(tab => {
+    chrome.tabs.query({currentWindow: true}, tabs => {
+      tabs.map(currentTab => {
+        tabs.map(tab => {
           if (currentTab.id === tab.id) {
             return;
           }
