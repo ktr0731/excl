@@ -13,9 +13,7 @@ When the icon was clicked, close all tabs which same URL with current tab's.
 - Chrome
 
 ## Installation
-1. Download `excl.crx` from Release page.  
-2. D&D it to extension settings page.
-3. Done!
+[Chrome extension store](https://chrome.google.com/webstore/detail/excl/gpdohcgeplmiakcbgdagnajcdjlogbnl)
 
 ## License
 Please see LICENSE.
