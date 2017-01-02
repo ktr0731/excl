@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "excl",
+    "description": "A Chrome extension for closing all tabs of duplicate URLs"
+  },
+  "appDesc": {
+    "message": "Close all duplicate URLs easy.",
+    "description":"This Chrome extension is close all tabs of duplicate URLs.\nFor example, if you opened two tabs that same URL and one tab that not the same URL.\nWhen used this extension, only two tabs remained. It's each another URL."
+  }
+}
