@@ -1,3 +1,5 @@
+# excl
+
 ![](./images/logo.png)  
   
 A Chrome extension for closing all tabs of duplicate URL
@@ -17,3 +19,5 @@ When the icon was clicked, close all tabs which same URL with current tab's.
 
 ## License
 Please see LICENSE.
+
+Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](http://www.flaticon.com/).
